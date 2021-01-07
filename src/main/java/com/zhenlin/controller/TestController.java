@@ -8,5 +8,6 @@ public class TestController {
         System.out.println("测试一下");
         System.out.println("没有被管理，就可以随便改");
         System.out.println("提交到本地库中后，就能显示修改的文件了");
+        System.out.println("再次提交");
     }
 }
